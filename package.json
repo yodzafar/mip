@@ -3,11 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@splidejs/react-splide": "^0.6.17",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
+    "ant-design-layout": "^4.9.11",
+    "i18next": "^21.6.0",
+    "node-sass": "^7.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-i18next": "^11.15.1",
     "react-scripts": "5.0.0",
     "web-vitals": "^2.1.2"
   },
